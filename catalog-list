@@ -1,0 +1,58 @@
+{
+  "catalogs": [
+    {
+      "metadata": {
+        "guid": "23df6490-2244-49ea-a9df-eb6d1059d427",
+        "url": "/v2/catalogs/23df6490-2244-49ea-a9df-eb6d1059d427",
+        "creator_id": "1000331007",
+        "create_time": "2021-09-30T16:21:13Z"
+      },
+      "entity": {
+        "name": "Test1",
+        "description": "This is test 1.",
+        "generator": "Catalog-UI-Service",
+        "bss_account_id": "999",
+        "capacity_limit": 0,
+        "is_governed": true,
+        "auto_profiling": true
+      },
+      "href": "/v2/catalogs/23df6490-2244-49ea-a9df-eb6d1059d427"
+    },
+    {
+      "metadata": {
+        "guid": "88df8888-8888-88zz-a8dg-eb1d8888d888",
+        "url": "/v2/catalogs/88df8888-8888-88zz-a8dg-eb1d8888d888",
+        "creator_id": "1000331007",
+        "create_time": "2021-09-30T16:21:13Z"
+      },
+      "entity": {
+        "name": "Test3",
+        "description": "This is test 3.",
+        "generator": "Catalog-UI-Service",
+        "bss_account_id": "333",
+        "capacity_limit": 0,
+        "is_governed": true,
+        "auto_profiling": true
+      },
+      "href": "/v2/catalogs/88df8888-8888-88zz-a8dg-eb1d8888d888"
+    },
+    {
+      "metadata": {
+        "guid": "55df5555-3333-11tg-a9dg-eb1d7777d999",
+        "url": "/v2/catalogs/55df5555-3333-11tg-a9dg-eb1d7777d999",
+        "creator_id": "1000331007",
+        "create_time": "2021-09-30T16:21:13Z"
+      },
+      "entity": {
+        "name": "Test5",
+        "description": "This is test 5.",
+        "generator": "Catalog-UI-Service",
+        "bss_account_id": "555",
+        "capacity_limit": 0,
+        "is_governed": true,
+        "auto_profiling": true
+      },
+      "href": "/v2/catalogs/55df5555-3333-11tg-a9dg-eb1d7777d999"
+    }
+  ]
+}
