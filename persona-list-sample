@@ -1,0 +1,69 @@
+{
+  "personaGroupList": [
+    {
+      "personaGroup": "Developer",
+      "value": "Data Architect",
+      "key": 1
+    },
+    {
+      "personaGroup": "Developer",
+      "value": "Data Ingestion Developer & Data Curation Developer",
+      "key": 3
+    },
+    {
+      "personaGroup": "Developer",
+      "value": "Data Scientist",
+      "key": 4
+    },
+    {
+      "personaGroup": "Developer",
+      "value": "Guest Developer",
+      "key": 5
+    },
+    {
+      "personaGroup": "Developer",
+      "value": "ML Engineer",
+      "key": 6
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "Business Power User",
+      "key": 7
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "Business User",
+      "key": 8
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "Data Operations Support",
+      "key": 9
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "Data Quality & Governance",
+      "key": 10
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "Data Solution Analyst",
+      "key": 11
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "GCS Bucket / BQ Layer User",
+      "key": 12
+    },
+    {
+      "personaGroup": "Data Consumer",
+      "value": "Platform Engineer",
+      "key": 13
+    },
+    {
+      "personaGroup": "Developer",
+      "value": "Platform Engineer",
+      "key": 14
+    }
+  ]
+}
