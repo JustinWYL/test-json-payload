@@ -1,0 +1,80 @@
+{
+  "datalakeDBList": [
+    {
+      "DatalakeName": "AID_JARVIS",
+      "AccessPoint": "NonSec",
+		  "DatabaseName": "aid_jarvis_experimentation"
+    },
+  	{
+  		"DatalakeName": "AI_DTWIN",
+      "AccessPoint": "NonSec",
+  		"DatabaseName":{
+  			"aid_dtwin_analytics_tbls",
+  			"aid_dtwin_ebh _quar_tbls",
+  			"aid_dtwin_ebh_core_tbls",
+  			"aid_dtwin_ran_core_tbls",
+  			"aid_dtwin_ran_quar_tbls"
+  		}
+	  },
+    {
+  		"DatalakeName": "BDAI",
+  		"AccessPoint": "NonSec",
+  		"DatabaseName":{	
+				"gs://g72v-dev-bdomdo-0-warehouse",
+				"gs://g72v-dev-bdompr-0-warehouse",
+				"gs://g72v-prod-bdomco-0-warehouse",
+				"gs://g72v-prod-bdomdo-0-warehouse",
+				"gs://g72v-prod-bdompr-0-warehouse",
+				"gs://g72v-test-bdomdo-0-warehouse",
+				"gs://g72v-test-bdompr-0-warehouse"
+      }
+    },
+  	{
+  		"DatalakeName": "CDH",
+      "AccessPoint": "NonSec",
+  		"DatabaseName":{
+  			"vzw_cdh_prd_qestbls",
+  			"vzw_cdh_prd_tbls",
+  			"vzw_uip_prd_tbls",
+  		}
+  	},
+  	{
+  		"DatalakeName": "Consumer Wireless",
+      "AccessPoint": "NonSec",
+  		"DatabaseName":{
+  			"vzw_cja_prd_mlopstbls",
+  			"vzw_cja_prd_reltbls",
+  			"vzw_cja_prd_rtstbls",
+  			"vzw_cja_prd_tbls",
+  			"vzw_cja_shub_prd_rtstbls",
+  			"vzw_soi_feeds_prd_certtbls",
+  			"vzw_uda_prd_tbls",	 
+  		}	
+  	},
+  	{
+  		"DatalakeName": "Consumer Wireless",
+      "AccessPoint": "Sec",
+  		"DatabaseName":{
+         "vzw_cja_prd_sectbls",
+  			 "vzw_uda_prd_dmtbls",
+  			 "vzw_uda_prd_sectbls",	 
+  		}	
+  	},
+  	{
+  		"DatalakeName": "Consumer Wireline",
+      "AccessPoint": "NonSec",
+  		"DatabaseName":{
+        "vzt_cja_prd_tbls",
+  			"vzt_uda_prd_tbls",
+  		}	
+  	},
+  	{
+  		"DatalakeName": "Consumer Wireline",
+      "AccessPoint": "Sec",
+  		"DatabaseName":{
+        "vzt_cja_prd_sectbls",
+  			"vzt_uda_prd_sectbls",	
+  		}
+  	}  
+ ]
+}
