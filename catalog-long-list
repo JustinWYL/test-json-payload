@@ -1,0 +1,458 @@
+{
+    "catalogs": [
+        {
+            "metadata": {
+                "guid": "23df6490-2244-49ea-a9df-eb6d1059d427",
+                "url": "/v2/catalogs/23df6490-2244-49ea-a9df-eb6d1059d427",
+                "creator_id": "1000331007",
+                "create_time": "2021-09-30T16:21:13Z"
+            },
+            "entity": {
+                "name": "20899 Term Mapping Test",
+                "description": "",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": true,
+                "auto_profiling": true
+            },
+            "href": "/v2/catalogs/23df6490-2244-49ea-a9df-eb6d1059d427"
+        },
+        {
+            "metadata": {
+                "guid": "d49f6ef2-d8ab-4b13-952e-8e9302fb3290",
+                "url": "/v2/catalogs/d49f6ef2-d8ab-4b13-952e-8e9302fb3290",
+                "creator_id": "1000331016",
+                "create_time": "2022-02-03T20:37:55Z"
+            },
+            "entity": {
+                "name": "19828 Reporting Catalog",
+                "description": "Facilities Assignment and Control System reporting.",
+                "generator": "banjabi",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": true,
+                "auto_profiling": true
+            },
+            "href": "/v2/catalogs/d49f6ef2-d8ab-4b13-952e-8e9302fb3290"
+        },
+        {
+            "metadata": {
+                "guid": "6ceb8b15-23d9-4987-bb0b-b2d9bea06f1e",
+                "url": "/v2/catalogs/6ceb8b15-23d9-4987-bb0b-b2d9bea06f1e",
+                "creator_id": "1000331095",
+                "create_time": "2022-05-25T17:30:26Z"
+            },
+            "entity": {
+                "name": "Custom Attributes Catalog",
+                "description": "Custom Attributes Catalog",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/6ceb8b15-23d9-4987-bb0b-b2d9bea06f1e"
+        },
+        {
+            "metadata": {
+                "guid": "e54e3945-a7d2-4f6b-b558-71ee5ab24718",
+                "url": "/v2/catalogs/e54e3945-a7d2-4f6b-b558-71ee5ab24718",
+                "creator_id": "1000331116",
+                "create_time": "2022-04-07T16:40:21Z"
+            },
+            "entity": {
+                "name": "import_test11",
+                "description": "",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/e54e3945-a7d2-4f6b-b558-71ee5ab24718"
+        },
+        {
+            "metadata": {
+                "guid": "c2645026-70da-4a49-b64a-9c224833d159",
+                "url": "/v2/catalogs/c2645026-70da-4a49-b64a-9c224833d159",
+                "creator_id": "1000331116",
+                "create_time": "2022-06-09T14:11:51Z"
+            },
+            "entity": {
+                "name": "MMTTEST8",
+                "description": "MMTTEST8 for KT on 06/09/2022",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "REPLACE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/c2645026-70da-4a49-b64a-9c224833d159"
+        },
+        {
+            "metadata": {
+                "guid": "3e3c019f-884b-45e6-89d6-b4005452a17e",
+                "url": "/v2/catalogs/3e3c019f-884b-45e6-89d6-b4005452a17e",
+                "creator_id": "1000331109",
+                "create_time": "2021-11-12T17:12:08Z"
+            },
+            "entity": {
+                "name": "test_catalog_again",
+                "description": "Plz discard.",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false
+            },
+            "href": "/v2/catalogs/3e3c019f-884b-45e6-89d6-b4005452a17e"
+        },
+        {
+            "metadata": {
+                "guid": "b0304bd2-876e-4f94-a137-8e44f4ab5148",
+                "url": "/v2/catalogs/b0304bd2-876e-4f94-a137-8e44f4ab5148",
+                "creator_id": "1000331109",
+                "create_time": "2021-09-29T21:57:54Z"
+            },
+            "entity": {
+                "name": "test1",
+                "description": "This is a test catalog",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false
+            },
+            "href": "/v2/catalogs/b0304bd2-876e-4f94-a137-8e44f4ab5148"
+        },
+        {
+            "metadata": {
+                "guid": "7ee9bea4-afc9-42e0-9d26-1756079966d7",
+                "url": "/v2/catalogs/7ee9bea4-afc9-42e0-9d26-1756079966d7",
+                "creator_id": "1000331116",
+                "create_time": "2022-04-07T09:56:12Z"
+            },
+            "entity": {
+                "name": "import_test9",
+                "description": "",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/7ee9bea4-afc9-42e0-9d26-1756079966d7"
+        },
+        {
+            "metadata": {
+                "guid": "5882ff06-664d-4de2-8f00-451da4e5e30a",
+                "url": "/v2/catalogs/5882ff06-664d-4de2-8f00-451da4e5e30a",
+                "creator_id": "1000331133",
+                "create_time": "2022-04-25T11:12:41Z"
+            },
+            "entity": {
+                "name": "cc_vzi_demo_catalog",
+                "description": "cc vzi demo catalog",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/5882ff06-664d-4de2-8f00-451da4e5e30a"
+        },
+        {
+            "metadata": {
+                "guid": "0579311e-c616-471b-ba59-31790f14c461",
+                "url": "/v2/catalogs/0579311e-c616-471b-ba59-31790f14c461",
+                "creator_id": "1000331006",
+                "create_time": "2022-05-18T13:58:13Z"
+            },
+            "entity": {
+                "name": "Test WKC Bug",
+                "description": "Test",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/0579311e-c616-471b-ba59-31790f14c461"
+        },
+        {
+            "metadata": {
+                "guid": "74d80423-7ec5-4991-b310-1a41a0121b23",
+                "url": "/v2/catalogs/74d80423-7ec5-4991-b310-1a41a0121b23",
+                "creator_id": "1000331109",
+                "create_time": "2021-12-07T14:58:04Z"
+            },
+            "entity": {
+                "name": "a_custom_catalog",
+                "description": "This is a custom catalog for a test only. Please, discard.",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": true,
+                "auto_profiling": true
+            },
+            "href": "/v2/catalogs/74d80423-7ec5-4991-b310-1a41a0121b23"
+        },
+        {
+            "metadata": {
+                "guid": "45e4092b-2980-4788-86c3-24989e842ec1",
+                "url": "/v2/catalogs/45e4092b-2980-4788-86c3-24989e842ec1",
+                "creator_id": "1000331095",
+                "create_time": "2022-05-26T14:00:24Z"
+            },
+            "entity": {
+                "name": "VDC_MDE_TEST_CATALOG",
+                "description": "VDC_MDE_TEST_CATALOG",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/45e4092b-2980-4788-86c3-24989e842ec1"
+        },
+        {
+            "metadata": {
+                "guid": "7a4efaeb-ed53-455d-b08a-cf3321a46be4",
+                "url": "/v2/catalogs/7a4efaeb-ed53-455d-b08a-cf3321a46be4",
+                "creator_id": "1000331016",
+                "create_time": "2022-02-03T20:36:30Z"
+            },
+            "entity": {
+                "name": "19749 Reporting Catalog",
+                "description": "FioS Digital Voice reporting.",
+                "generator": "banjabi",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": true,
+                "auto_profiling": true
+            },
+            "href": "/v2/catalogs/7a4efaeb-ed53-455d-b08a-cf3321a46be4"
+        },
+        {
+            "metadata": {
+                "guid": "15089595-ea3e-4da8-a0e2-7142a74f8cfb",
+                "url": "/v2/catalogs/15089595-ea3e-4da8-a0e2-7142a74f8cfb",
+                "creator_id": "1000331095",
+                "create_time": "2021-05-07T14:31:31Z"
+            },
+            "entity": {
+                "name": "Verizon Data Catalog",
+                "description": "Final Catalog for users to search and browse",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": true,
+                "auto_profiling": true
+            },
+            "href": "/v2/catalogs/15089595-ea3e-4da8-a0e2-7142a74f8cfb"
+        },
+        {
+            "metadata": {
+                "guid": "19815993-e244-48e7-8015-cb006ac7b4e5",
+                "url": "/v2/catalogs/19815993-e244-48e7-8015-cb006ac7b4e5",
+                "creator_id": "1000331095",
+                "create_time": "2022-05-13T14:12:07Z"
+            },
+            "entity": {
+                "name": "Verizon Sensitive Data Catalog",
+                "description": "Verizon Sensitive Data Catalog",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": true,
+                "auto_profiling": true,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/19815993-e244-48e7-8015-cb006ac7b4e5"
+        },
+        {
+            "metadata": {
+                "guid": "10d681f0-812d-483f-8655-6ec841505874",
+                "url": "/v2/catalogs/10d681f0-812d-483f-8655-6ec841505874",
+                "creator_id": "1000331109",
+                "create_time": "2021-11-10T18:43:26Z"
+            },
+            "entity": {
+                "name": "test_catalog_nb",
+                "description": "This is just  a test catalog.",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false
+            },
+            "href": "/v2/catalogs/10d681f0-812d-483f-8655-6ec841505874"
+        },
+        {
+            "metadata": {
+                "guid": "06d7e182-a46d-4158-92dc-3914e77b84a2",
+                "url": "/v2/catalogs/06d7e182-a46d-4158-92dc-3914e77b84a2",
+                "creator_id": "1000331116",
+                "create_time": "2022-05-09T20:24:44Z"
+            },
+            "entity": {
+                "name": "Custom_Attribute_test",
+                "description": "",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/06d7e182-a46d-4158-92dc-3914e77b84a2"
+        },
+        {
+            "metadata": {
+                "guid": "45e4092b-2980-4788-86c3-24989e842ec1",
+                "url": "/v2/catalogs/45e4092b-2980-4788-86c3-24989e842ec1",
+                "creator_id": "1000331095",
+                "create_time": "2022-05-26T14:00:24Z"
+            },
+            "entity": {
+                "name": "VDC_MDE_TEST_CATALOG",
+                "description": "VDC_MDE_TEST_CATALOG",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "IGNORE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/45e4092b-2980-4788-86c3-24989e842ec1"
+        },
+        {
+            "metadata": {
+                "guid": "e73d0a81-868d-4667-9cd6-7b9e6cfd133f",
+                "url": "/v2/catalogs/e73d0a81-868d-4667-9cd6-7b9e6cfd133f",
+                "creator_id": "1000331116",
+                "create_time": "2022-06-09T16:13:26Z"
+            },
+            "entity": {
+                "name": "SAILTEST8",
+                "description": "SAILTEST8 for KT on 06/08/2022",
+                "generator": "Catalog-UI-Service",
+                "bss_account_id": "999",
+                "capacity_limit": 0,
+                "is_governed": false,
+                "auto_profiling": false,
+                "configurations": {
+                    "duplicate_action": "REPLACE",
+                    "default_duplicate_strategy": "DUPLICATE_DETECTION_BY_NAME",
+                    "duplicate_strategies": [
+                        {
+                            "asset_type": "data_asset",
+                            "strategy": "DUPLICATE_DETECTION_BY_NAME"
+                        }
+                    ]
+                }
+            },
+            "href": "/v2/catalogs/e73d0a81-868d-4667-9cd6-7b9e6cfd133f"
+        }
+    ],
+    "nextBookmark": "g1AAAAC_eJzLYWBgYMpgTmEwT84vTc5ISXIoTynQhbJ1DfWQeHopqWV6xWXJesk5pcUlqUV6OfnJiTk5IAMSGZLq____n5XB5Ga_5bGUA1AsiYGB0Yhig_NYgCRDA5D6DzN__Zc-Bqj5mlkAjdY-fQ",
+    "nextSkip": 0
+}
